@@ -3,7 +3,7 @@ import pandas as pd
 import os
 from typing import List, Dict
 
-# Start Date of MSTR's Treasury Strategy
+# T-2 Start Date of MSTR's Treasury Strategy
 START_DATE = "2018-08-11"
 
 
